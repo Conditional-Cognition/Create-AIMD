@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "ABC",
+    "DDE",
+    "FGH"
+  ],
+  "key": {
+    "A": { "item": "createnucleartech:super_explosive_lens_segment" },
+    "B": { "item": "createnucleartech:plutonium_core" },
+    "C": { "item": "createnucleartech:nuclear_bomb" },
+    "D": { "item": "tfmg:lead_truss" },
+    "E": { "item": "tfmg:lead_block" },
+    "F": { "item": "tfmg:lead_sheet" },
+    "G": { "item": "minecraft:redstone" },
+    "H": { "item": "minecraft:lever" }
+  },
+  "result": {
+    "id": "createaimd:aimd_nuclear_launcher_are_you_sure_you_want_to_craft_this_broski",
+    "count": 1
+  }
+}
